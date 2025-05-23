@@ -19,9 +19,11 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Artist.h" />
     <ClInclude Include="Song.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="Artist.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="Song.cpp" />
   </ItemGroup>

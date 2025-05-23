@@ -4,4 +4,5 @@ using namespace std;
 
 int main() {
 	cout << "Welcome to Music Player App!" << endl;
+	return 0;
 }
