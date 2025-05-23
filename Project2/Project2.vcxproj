@@ -22,6 +22,7 @@
     <ClInclude Include="Song.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="main.cpp" />
     <ClCompile Include="Song.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
